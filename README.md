@@ -19,7 +19,7 @@
 
 ## Demo
 
-Here's the Demo => [DEMO]
+Here's the Demo => [DEMO](https://marvelttihu.github.io/digital-clock/)
 
 ## What I learned
 
